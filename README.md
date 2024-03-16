@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C/C++**
 
-- 📫 How to reach me **tudorlupu1003@gmail.com**
+- 📫 How to reach me **tudorlupu33@yahoo.com**
 
 - ⚡ Fun fact **I think A.I. will "take over" =)**
 

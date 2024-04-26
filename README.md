@@ -1,5 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Tudor</h1>
+
+<p> <img align="center" src="https://github.com/DRACULATudor/SO_LONG/blob/main/ezgif.com-combine.gif" alt="linux"/> </a></p>
+
 <h3 align="center">A passionate developer from Romania</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
@@ -23,5 +26,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=draculatudor&show_icons=true&theme=dracula&title_color=981b1b&text_color=835d5d&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="draculatudor" /></p>
 
-<p><a align="center" href="https://github.com/DRACULATudor/SO_LONG/tree/main" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/DRACULATudor/SO_LONG/blob/main/ezgif.com-combine.gif" alt="linux"/> </a></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=draculatudor&theme=highcontrast" alt="draculatudor" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=draculatudor&theme=highcontrast" alt="draculatudor" /></p>
+<a align="center" href="https://github.com/DRACULATudor/SO_LONG/tree/main" target="_blank" rel="noreferrer">
+-->

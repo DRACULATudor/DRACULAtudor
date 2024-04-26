@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=draculatudor&show_icons=true&theme=dracula&title_color=981b1b&text_color=835d5d&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="draculatudor" /></p>
 
-<p><a align="center" href="https://github.com/DRACULATudor/SO_LONG/blob/main/ezgif.com-combine.gif" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/DRACULATudor/SO_LONG/blob/main/ezgif.com-combine.gif" alt="linux"/> </a></p>
+<p><a align="center" href="https://github.com/DRACULATudor/SO_LONG/tree/main" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/DRACULATudor/SO_LONG/blob/main/ezgif.com-combine.gif" alt="linux"/> </a></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=draculatudor&theme=highcontrast" alt="draculatudor" /></p> -->

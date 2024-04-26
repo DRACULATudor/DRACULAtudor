@@ -13,13 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-- 🌱 I’m currently learning **C, C++, JavaScript, React, Python**
-
-- 💬 Ask me about **C/C++**
-
-- 📫 How to reach me **tudorlupu33@yahoo.com**
-
-- ⚡ Fun fact **I think A.I. will "take over" =)**
+<h1 align="center"></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

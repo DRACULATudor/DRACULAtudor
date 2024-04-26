@@ -1,7 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Tudor</h1>
 
+<h3 align="center">A passionate developer from Romania</h3>
 
+- 🌱 I’m currently learning **C, C++, Python, JS, React**
+
+- 💬 Ask me about **C/C++**
+
+- 📫 How to reach me **tudorlupu33@yahoo.com**
+
+<p><br></p>
+ 
 <h1><a  href="https://github.com/DRACULATudor/SO_LONG/tree/main"> So_long </a></h1>
 <p> <img align="center" src="https://github.com/DRACULATudor/SO_LONG/blob/main/ezgif.com-combine.gif" alt="linux"/> </a></p>
 

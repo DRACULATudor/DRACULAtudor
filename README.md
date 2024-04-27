@@ -5,7 +5,6 @@
 
 <p><br></p>
 
-
 - 🌱 I’m currently learning **C, C++, Python, JS, React**
 
 - 💬 Ask me about **C/C++**

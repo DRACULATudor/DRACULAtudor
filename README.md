@@ -3,7 +3,6 @@
 
 <h3 align="center">A passionate developer from Romania</h3>
 
-
 <p><br></p>
 
 

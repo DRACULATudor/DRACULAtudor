@@ -3,7 +3,9 @@
 
 <h3 align="center">A passionate developer from Romania</h3>
 
+
 <p><br></p>
+
 
 - 🌱 I’m currently learning **C, C++, Python, JS, React**
 

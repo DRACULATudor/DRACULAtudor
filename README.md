@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **C, C++, Python, JS, React**
 
 - 💬 Ask me about **C/C++**
+- 
 
 - 📫 How to reach me **tudorlupu33@yahoo.com**
 

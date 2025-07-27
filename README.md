@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C, C++, Python**
 
-- 💬 Ask me about **C/C++**
+- 💬 Ask me about **Python, Docker, FastAPI, C/C++**
 
 - 📫 How to reach me **tudorlupu33@yahoo.com**
 

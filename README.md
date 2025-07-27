@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Docker, FastAPI, C/C++**
 
-- 📫 How to reach me **tudorlupu33@yahoo.com**
+- 📫 How to reach me **tudorlupu1003@gmail.com**
 
 <p><br></p>
 

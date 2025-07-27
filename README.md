@@ -2,12 +2,10 @@
 <h1 align="center">Hi 👋, I'm Tudor</h1>
 
 <h3 align="center">A passionate developer from Romania</h3>
-<h3 align="center">Student at 42 Wolfsburg</h3>
+<h3 align="center">Student at 42</h3>
 
 
 <p><br></p>
-
-- 🌱 I’m currently learning **C, C++, Python**
 
 - 💬 Ask me about **Python, Docker, FastAPI, C/C++**
 
